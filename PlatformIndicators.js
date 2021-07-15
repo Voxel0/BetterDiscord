@@ -57,7 +57,7 @@ module.exports = (() => {
                 title: "v0.2",
                 type: "added",
                 items: [
-                    "2 Attempt to fix conflicts with BetterRoleColors.",
+                    "2 Attempt to fix conflicts with BetterRoleColors",
                     "It'll probably require you to update 2 times because the filename has changed.",
                     "Bug fixes... styling fixes..."
                 ]
