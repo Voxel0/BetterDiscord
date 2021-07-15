@@ -42,7 +42,7 @@ module.exports = (() => {
             version: "0.1",
             description: "Adds indicators for every platform that the user is using. Source code availble on the repo in the 'src' folder.",
             github: "https://github.com/Voxel0/BetterDiscord/blob/main/PlatformIndicators.js",
-            github_raw: "https://raw.githubusercontent.com/Strencher/BetterDiscordStuff/master/PlatformIndicators/APlatformIndicators.plugin.js"
+            github_raw: "https://raw.githubusercontent.com/Voxel0/BetterDiscord/main/PlatformIndicators.js"
         },
         changelog: [
             {
@@ -54,7 +54,7 @@ module.exports = (() => {
                 ]
             },
             {
-                title: "v0",
+                title: "v0.2",
                 type: "added",
                 items: [
                     "2 Attempt to fix conflicts with BetterRoleColors.",
