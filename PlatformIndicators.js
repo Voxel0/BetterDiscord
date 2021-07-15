@@ -1,8 +1,7 @@
 /**
 * @name PlatformIndicators
 * @displayName PlatformIndicators
-* @authorId 415849376598982656
-* @invite gvA2ree
+* @4131005749810954256
 */
 /*@cc_on
 @if (@_jscript)
