@@ -46,7 +46,7 @@ module.exports = (() => {
         },
         changelog: [
             {
-                title: "v0.1",
+                title: "v0.3",
                 type: "fixed",
                 items: [
                     "Thanks to @qwert#1441 for fixing the padding issue in chat messages!",
