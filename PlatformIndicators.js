@@ -39,18 +39,18 @@ module.exports = (() => {
                     twitter_username: "Voxel"
                 }
             ],
-            version: "0.1",
-            description: "Adds indicators for every platform that the user is using. Source code availble on the repo in the 'src' folder.",
+            version: "0.2",
+            description: "Adds indicators for every platform that the user is using.",
             github: "https://github.com/Voxel0/BetterDiscord/blob/main/PlatformIndicators.js",
             github_raw: "https://raw.githubusercontent.com/Voxel0/BetterDiscord/main/PlatformIndicators.js"
         },
         changelog: [
             {
-                title: "v0.3",
+                title: "v0.1",
                 type: "fixed",
                 items: [
-                    "Thanks to @qwert#1441 for fixing the padding issue in chat messages!",
-                    "I still need ideas where to show all of them at one position that is not next to the username... join my Support server => https://discord.gg/gvA2ree to send me ideas!"
+                    "Fixed Discolored Icons",
+                    "if you have any ideas dm @Voxel#1455"
                 ]
             },
             {
