@@ -40,7 +40,7 @@ module.exports = (() => {
             ],
             version: "0.2",
             description: "Adds indicators for every platform that the user is using.",
-            github: "https://github.com/Voxel0/BetterDiscord/blob/main/PlatformIndicators.js",
+            github: "https://github.com/Voxel0/BetterDiscord/blob/main/PlatformIndicators.plugin.js",
             github_raw: "https://raw.githubusercontent.com/Voxel0/BetterDiscord/main/PlatformIndicators.js"
         },
         changelog: [
