@@ -38,22 +38,22 @@ module.exports = (() => {
                     twitter_username: "Voxel"
                 }
             ],
-            version: "0.2",
+            version: "0.3",
             description: "Adds indicators for every platform that the user is using.",
             github: "https://github.com/Voxel0/BetterDiscord/blob/main/PlatformIndicators.plugin.js",
             github_raw: "https://raw.githubusercontent.com/Voxel0/BetterDiscord/main/PlatformIndicators.plugin.js"
         },
         changelog: [
             {
-                title: "v0.1",
+                title: "v0.2",
                 type: "fixed",
                 items: [
-                    "Fixed Discolored Icons",
+                    "Web Icon Discolorment",
                     "if you have any ideas dm @Voxel#1455"
                 ]
             },
             {
-                title: "v0.2",
+                title: "v0.3",
                 type: "added",
                 items: [
                     "2 Attempt to fix conflicts with BetterRoleColors",
