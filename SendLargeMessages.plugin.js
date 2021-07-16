@@ -5,7 +5,7 @@
  * @version 1.0
  * @description Allows you to enter larger Messages, which will automatically split into several smaller Messages
  * @source https://github.com/mwittrien/BetterDiscordAddons/tree/master/Plugins/SendLargeMessages/
- * @updateUrl https://mwittrien.github.io/BetterDiscordAddons/Plugins/SendLargeMessages/SendLargeMessages.plugin.js
+ * @updateUrl https://raw.githubusercontent.com/Voxel0/BetterDiscord/main/SendLargeMessages.plugin.js
  */
 
 module.exports = (_ => {
