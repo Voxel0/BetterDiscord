@@ -3,7 +3,7 @@
  * @description Lets you click users' avatars on their profile page to view a bigger version in your browser.
  * @version 1.1
  * @authorId 413100574981095425
- * @updateUrl https://raw.githubusercontent.com/Inve1951/BetterDiscordStuff/master/plugins/linkProfilePicture.plugin.js
+ * @updateUrl https://raw.githubusercontent.com/Voxel0/BetterDiscord/main/PfpToLink.plugin.js
  */
 module.exports = class PfpToLink {
   start() {
