@@ -11,8 +11,8 @@ module.exports = (() => {
 			authors: [{name: "Voxel", github_username: "Voxel0", discord_id: "413100574981095425"}],
 			description: "Shows an indicator in the guild/channel list when someone is typing there",
 			version: "0.0.2",
-			github: "https://github.com/l0c4lh057/BetterDiscordStuff/blob/master/Plugins/TypingIndicator/",
-			github_raw: "https://raw.githubusercontent.com/l0c4lh057/BetterDiscordStuff/master/Plugins/TypingIndicator/TypingIndicator.plugin.js"
+			github: "https://github.com/Voxel0/BetterDiscord/blob/main/typingindecator.plugin.js",
+			github_raw: "https://raw.githubusercontent.com/Voxel0/BetterDiscord/main/typingindecator.plugin.js"
 		},
 		defaultConfig: [
 			{
