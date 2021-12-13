@@ -48,7 +48,7 @@ module.exports = (() => {
                 title: "v1.9",
                 type: "fixed",
                 items: [
-                    "Fixed missing class"
+                    "test update"
                 ]
             },
         ],
