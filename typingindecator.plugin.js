@@ -10,7 +10,7 @@ module.exports = (() => {
 			name: "TypingIndicator",
 			authors: [{name: "Voxel", github_username: "Voxel0", discord_id: "413100574981095425"}],
 			description: "Shows an indicator in the guild/channel list when someone is typing there",
-			version: "0.0.1",
+			version: "0.0.2",
 			github: "https://github.com/l0c4lh057/BetterDiscordStuff/blob/master/Plugins/TypingIndicator/",
 			github_raw: "https://raw.githubusercontent.com/l0c4lh057/BetterDiscordStuff/master/Plugins/TypingIndicator/TypingIndicator.plugin.js"
 		},
@@ -62,12 +62,12 @@ module.exports = (() => {
 			{
 				"title": "Fixed",
 				"type": "fixed",
-				"items": ["test1"]
+				"items": ["testing auto update"]
 			},
 			{
 				"title": "Changed",
 				"type": "changed",
-				"items": ["test2"]
+				"items": ["testing auto update"]
 			}
 		]
 	};
