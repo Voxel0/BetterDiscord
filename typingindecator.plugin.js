@@ -67,7 +67,7 @@ module.exports = (() => {
 			{
 				"title": "Changed",
 				"type": "changed",
-				"items": ["testing auto update"]
+				"items": ["testing auto updatee"]
 			}
 		]
 	};
