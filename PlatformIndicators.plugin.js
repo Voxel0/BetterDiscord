@@ -2,7 +2,8 @@
 * @name PlatformIndicators
 * @displayName PlatformIndicators
 * @authorId 413100574981095425
-* @version 2.0
+* @version 2.1
+* @updateUrl https://raw.githubusercontent.com/Voxel0/BetterDiscord/main/PlatformIndicators.plugin.js
 */
 /*@cc_on
 @if (@_jscript)
