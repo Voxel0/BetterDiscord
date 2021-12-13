@@ -1,8 +1,9 @@
 /**
  * @name PfpToLink
  * @description Lets you click users' avatars on their profile page to view a bigger version in your browser.
- * @version 1.1
+ * @version 1.2
  * @authorId 413100574981095425
+ * @author Voxel
  * @updateUrl https://raw.githubusercontent.com/Voxel0/BetterDiscord/main/PfpToLink.plugin.js
  */
 module.exports = class PfpToLink {
