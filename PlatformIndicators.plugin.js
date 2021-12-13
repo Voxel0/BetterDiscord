@@ -49,7 +49,7 @@ module.exports = (() => {
                 title: "v2.0",
                 type: "fixed",
                 items: [
-                    "Fixed the direct install into BD Folder"
+                    "Fixed the direct install into BD Folder (hopefully)"
                 ]
             },
         ],
