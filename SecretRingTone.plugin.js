@@ -1,7 +1,7 @@
 /**!
  * @name SecretRingTone
  * @description 100% chance of getting the secret ringtone.
- * @version 0.0.2
+ * @version 0.0.3
  * @author Voxel
  * @authorId 413100574981095425
  * @updateUrl https://raw.githubusercontent.com/Voxel0/BetterDiscord/main/secretringtone.plugin.js
@@ -34,7 +34,7 @@ const path = require('path');
 const request = require('request');
 const electron = require('electron');
 
-const config = {"info":{"name":"SecretRingTone","description":"100% chance of getting the secret ringtone.","version":"0.0.2","authors":[{"name":"Voxel","discord_id":"413100574981095425"}],"github":"https://github.com/Voxel0/BetterDiscord/edit/main/secretringtone.plugin.js","github_raw":"https://raw.githubusercontent.com/Voxel0/BetterDiscord/main/secretringtone.plugin.js"},"changelog":[{"title":"null","type":"fixed","items":["Fixed Probability Chances"]}]};
+const config = {"info":{"name":"SecretRingTone","description":"100% chance of getting the secret ringtone.","version":"0.0.3","authors":[{"name":"Voxel","discord_id":"413100574981095425"}],"github":"https://github.com/Voxel0/BetterDiscord/edit/main/secretringtone.plugin.js","github_raw":"https://raw.githubusercontent.com/Voxel0/BetterDiscord/main/secretringtone.plugin.js"},"changelog":[{"title":"null","type":"fixed","items":["Fixed Probability Chances and added more stablility"]}]};
 
 function buildPlugin() {
     const [Plugin, BoundedLibrary] = global.ZeresPluginLibrary.buildPlugin(config);
