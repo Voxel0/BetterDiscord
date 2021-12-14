@@ -1,10 +1,10 @@
 /**!
  * @name SecretRingTone
- * @description Always plays the secret ring tone when someone calls you.
- * @version 1.0.1
- * @author Marmota (Jaime Filho)
- * @authorId 289112759948410881
- * @updateUrl https://raw.githubusercontent.com/jaimeadf/BetterDiscordPlugins/release/dist/SecretRingTone/SecretRingTone.plugin.js
+ * @description 100% chance of getting the secret ringtone.
+ * @version 0.0.1
+ * @author Voxel
+ * @authorId 413100574981095425
+ * @updateUrl https://raw.githubusercontent.com/Voxel0/BetterDiscord/main/secretringtone.plugin.js
  */
 
 /*@cc_on
@@ -34,7 +34,7 @@ const path = require('path');
 const request = require('request');
 const electron = require('electron');
 
-const config = {"info":{"name":"SecretRingTone","description":"100% chance of getting the secret ringtone.","version":"0.0.1","authors":[{"name":"Voxel","discord_id":"413100574981095425"}],"github":"https://github.com/jaimeadf/BetterDiscordPlugins/tree/release/src/SecretRingTone","github_raw":"https://raw.githubusercontent.com/jaimeadf/BetterDiscordPlugins/release/dist/SecretRingTone/SecretRingTone.plugin.js"},"changelog":[{"title":"First Release","type":"fixed","items":["First Release"]}]};
+const config = {"info":{"name":"SecretRingTone","description":"100% chance of getting the secret ringtone.","version":"0.0.1","authors":[{"name":"Voxel","discord_id":"413100574981095425"}],"github":"https://github.com/Voxel0/BetterDiscord/edit/main/secretringtone.plugin.js","github_raw":"https://raw.githubusercontent.com/Voxel0/BetterDiscord/main/secretringtone.plugin.js"},"changelog":[{"title":"First Release","type":"fixed","items":["First Release"]}]};
 
 function buildPlugin() {
     const [Plugin, BoundedLibrary] = global.ZeresPluginLibrary.buildPlugin(config);
