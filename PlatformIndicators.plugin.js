@@ -2,7 +2,7 @@
 * @name PlatformIndicators
 * @displayName PlatformIndicators
 * @authorId 413100574981095425
-* @version 2.1
+* @version 0.0.3
 * @updateUrl https://raw.githubusercontent.com/Voxel0/BetterDiscord/main/PlatformIndicators.plugin.js
 */
 /*@cc_on
@@ -39,14 +39,14 @@ module.exports = (() => {
                     github_username: "Voxel0"
                 }
             ],
-            version: "2.1",
+            version: "0.0.3",
             description: "Adds indicators for every platform that the user is using.",
             github: "https://github.com/Voxel0/BetterDiscord/edit/main/PlatformIndicators.plugin.js",
             github_raw: "https://raw.githubusercontent.com/Voxel0/BetterDiscord/main/PlatformIndicators.plugin.js"
         },
         changelog: [
             {
-                title: "v2.0",
+                title: "v0.0.3",
                 type: "fixed",
                 items: [
                     "Fixed the direct install into BD Folder (hopefully)"
