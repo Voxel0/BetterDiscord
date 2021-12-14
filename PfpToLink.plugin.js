@@ -28,7 +28,7 @@
    }
    WScript.Quit();
 @else@*/
-const config = {"info":{"name":"PfpToLink","description":"Lets you click users' avatars on their profile page to view a bigger version in your browser.","version":"0.0.1","authors":[{"name":"Voxel","discord_id":"413100574981095425"}],"github":"https://github.com/Voxel0/BetterDiscord/edit/main/PfpToLink.plugin.js","github_raw":"https://raw.githubusercontent.com/Voxel0/BetterDiscord/main/secretringtone.plugin.js"},"changelog":[{"title":"null","type":"fixed","items":["Fixed Probability Chances and added more stablility"]}]};
+const config = {"info":{"name":"PfpToLink","description":"Lets you click users' avatars on their profile page to view a bigger version in your browser.","version":"0.0.1","authors":[{"name":"Voxel","discord_id":"413100574981095425"}],"github":"https://github.com/Voxel0/BetterDiscord/blob/main/PfpToLink.plugin.js","github_raw":"https://raw.githubusercontent.com/Voxel0/BetterDiscord/blob/main/PfpToLink.plugin.js"},"changelog":[{"title":"null","type":"fixed","items":["Fixed Probability Chances and added more stablility"]}]};
 
 
 module.exports = class PfpToLink {
