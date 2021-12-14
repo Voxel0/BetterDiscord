@@ -34,7 +34,7 @@ const path = require('path');
 const request = require('request');
 const electron = require('electron');
 
-const config = {"info":{"name":"SecretRingTone","description":"100% chance of getting the secret ringtone.","version":"0.0.1","authors":[{"name":"Voxel","discord_id":"413100574981095425"}],"github":"https://github.com/Voxel0/BetterDiscord/edit/main/secretringtone.plugin.js","github_raw":"https://raw.githubusercontent.com/Voxel0/BetterDiscord/main/secretringtone.plugin.js"},"changelog":[{"title":"First Release","type":"fixed","items":["First Release"]}]};
+const config = {"info":{"name":"SecretRingTone","description":"100% chance of getting the secret ringtone.","version":"0.0.1","authors":[{"name":"Voxel","discord_id":"413100574981095425"}],"github":"https://github.com/Voxel0/BetterDiscord/edit/main/secretringtone.plugin.js","github_raw":"https://raw.githubusercontent.com/Voxel0/BetterDiscord/main/secretringtone.plugin.js"},"changelog":[{"title":"null","type":"fixed","items":["Fixed Probability Chances"]}]};
 
 function buildPlugin() {
     const [Plugin, BoundedLibrary] = global.ZeresPluginLibrary.buildPlugin(config);
