@@ -46,7 +46,7 @@ module.exports = (() => {
         },
         changelog: [
             {
-                title: "v0.0.3",
+                title: "Fixed!",
                 type: "fixed",
                 items: [
                     "Fixed Not Loading when starting better discord and Added Direct Install threw the PlatformIndicators File"
